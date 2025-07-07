@@ -15,8 +15,8 @@ Right-click on ProofYield.exe → Properties → Digital Signatures → View Cer
 
 | Platform                                            | Status       | Report Link                                                   |
 | --------------------------------------------------- | ------------ | ------------------------------------------------------------- |
-| [VirusTotal](https://www.virustotal.com/gui/file/)  | ✅ Clean      | [VirusTotal Report]([https://www.virustotal.com/gui/file/](https://www.virustotal.com/gui/file/8ab9bd96a7cc54a80aa478005280fb1bd59a0835f0271816b8646fba1043a8ff)         |
-| [Kaspersky OpenTIP](https://opentip.kaspersky.com/) | ✅ Clean | [Kaspersky Report]([https://www.virustotal.com/gui/file/](https://opentip.kaspersky.com/8AB9BD96A7CC54A80AA478005280FB1BD59A0835F0271816B8646FBA1043A8FF/results?tab=upload)   |
+| [VirusTotal](https://www.virustotal.com/gui/file/)  | ✅ Clean      | [VirusTotal Report](https://www.virustotal.com/gui/file/8ab9bd96a7cc54a80aa478005280fb1bd59a0835f0271816b8646fba1043a8ff)  |
+| [Kaspersky OpenTIP](https://opentip.kaspersky.com/) | ✅ Clean | [Kaspersky Report](https://opentip.kaspersky.com/8AB9BD96A7CC54A80AA478005280FB1BD59A0835F0271816B8646FBA1043A8FF/results?tab=upload)   |
 | [ThreatBook](https://s.threatbook.com/)             | ✅ Clean       | [ThreatBook Report](https://www.virustotal.com/gui/file/) |
 
 ### Step 2: Download and Extract
