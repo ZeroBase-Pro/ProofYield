@@ -21,7 +21,7 @@ Right-click on ProofYield.exe → Properties → Digital Signatures → View Cer
 
 ### Step 2: Download and Install
 
-Download the latest version [here](https://github.com/ZeroBase-Pro/ProofYield/releases).
+# [Download](https://github.com/ZeroBase-Pro/ProofYield/releases) the latest version here.
 
 Install `ProofYield.exe` program
 
