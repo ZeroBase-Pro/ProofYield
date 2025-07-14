@@ -15,9 +15,9 @@ Right-click on ProofYield.exe → Properties → Digital Signatures → View Cer
 
 | Platform                                            | Status       | Report Link                                                   |
 | --------------------------------------------------- | ------------ | ------------------------------------------------------------- |
-| [VirusTotal](https://www.virustotal.com/gui/file/)  | ✅ Clean      | [VirusTotal Report](https://www.virustotal.com/gui/file/8ab9bd96a7cc54a80aa478005280fb1bd59a0835f0271816b8646fba1043a8ff)  |
-| [Kaspersky OpenTIP](https://opentip.kaspersky.com/) | ✅ Clean | [Kaspersky Report](https://opentip.kaspersky.com/8AB9BD96A7CC54A80AA478005280FB1BD59A0835F0271816B8646FBA1043A8FF/results?tab=upload)   |
-| [ThreatBook](https://s.threatbook.com/)             | ✅ Clean       | [ThreatBook Report](https://www.virustotal.com/gui/file/) |
+| [VirusTotal](https://www.virustotal.com/gui/file/)  | ✅ Clean      | [VirusTotal Report](https://www.virustotal.com/gui/file/fae582fb001a0964d8c3fa7b1fafac77b44085180d9dd776e84cbab8caf8c45a)  |
+| [Kaspersky OpenTIP](https://opentip.kaspersky.com/) | ✅ Clean | [Kaspersky Report](https://opentip.kaspersky.com/C19CF4C39E7BFBD8DA7E124AFE023FD760DDB458BF6F4758BD345E52C07ADB8C/results)   |
+| [ThreatBook](https://s.threatbook.com/)             | ✅ Clean       | [ThreatBook Report](https://s.threatbook.com/report/file/c19cf4c39e7bfbd8da7e124afe023fd760ddb458bf6f4758bd345e52c07adb8c) |
 
 ### Step 2: Download and Install
 
