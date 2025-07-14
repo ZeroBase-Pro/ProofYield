@@ -19,17 +19,15 @@ Right-click on ProofYield.exe → Properties → Digital Signatures → View Cer
 | [Kaspersky OpenTIP](https://opentip.kaspersky.com/) | ✅ Clean | [Kaspersky Report](https://opentip.kaspersky.com/8AB9BD96A7CC54A80AA478005280FB1BD59A0835F0271816B8646FBA1043A8FF/results?tab=upload)   |
 | [ThreatBook](https://s.threatbook.com/)             | ✅ Clean       | [ThreatBook Report](https://www.virustotal.com/gui/file/) |
 
-### Step 2: Download and Extract
+### Step 2: Download and Install
 
-Download the latest version (v0.2.1) from the official site or trusted link.
+Download the latest version here.
 
-Unzip the package to a folder with an English-only path (e.g., C:\ZEROBASE\).
+Install `ProofYield.exe` program
 
 ### Step 3: Launch the App
 
-Double-click on `ProofYield.exe` to start.
-
-Note: On the first launch, Windows Defender SmartScreen may display a warning because the app is not yet signed with an EV Code Signing Certificate. Click "More info" > "Run anyway" only if you trust the source.
+Double-click on `ProofYield` shortcut to start.
 
 ### Step 4: Register or Log In
 
